@@ -1,0 +1,10 @@
+
+client.json
+token.json
+spreadsheetid.json
+out.txt
+isdisabled
+run.sh
+
+node_modules/
+dist/
